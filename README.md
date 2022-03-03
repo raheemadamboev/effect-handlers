@@ -1,7 +1,7 @@
 # effect-handlers
 Use cases of different effect handlers in Jetpack Compose
 
-**• Effect Handlers**
+**Effect Handlers**
 
 <img src="https://github.com/raheemadamboev/effect-handlers/blob/master/jetpack-compose-banner.png" />
 
